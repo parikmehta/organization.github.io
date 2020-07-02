@@ -1,0 +1,102 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navbar a:hover{
+      background-color: crimson;
+  }
+ 
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .by {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+.Conserve Energy {
+width: 1200px;
+}
+body {
+  background-color: #C6F5CF;
+} 
+
+.framecolor {
+background-color: white;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+.learn {
+  height: 2000px;
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 1090px;
+  margin-top: 100px; 
+}
+
+
+.help {
+  height: 1000px;
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 1090px;
+  margin-top: 100px; 
+}
+
+.organization {
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 1090px;
+  height: 2500px;
+  margin-top: 100px; 
+}
+
+.image1 {
+  width: 540px;
+
+}
+H3 {
+  font-size: 24px;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+h2 {
+  font-size: 28px;
+}
+.CI {
+  width: 50%;
+  height:50%;
+}
+.NRDC {
+  width: 40%;
+height: 50%;
+}
+.EDF {
+  width: 35%;
+  height: 40%;
+}
+.graph {
+  width: 40%;
+  height: 50%;
+}
+.homepage {
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 1090px;
+  height: 500px;
+  margin-top: 100px; 
+}
